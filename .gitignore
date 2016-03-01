@@ -1,5 +1,4 @@
 results/
-a.dat
-b.dat
-c.dat
-mydat.fastq
+
+*.dat
+*.fastq
